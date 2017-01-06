@@ -1,4 +1,4 @@
-﻿{
+{
   "dependencies": {
     "BundlerMinifier.Core": "2.2.306",
     "Microsoft.AspNetCore.Diagnostics": "1.0.0",
@@ -21,7 +21,7 @@
   },
 
   "frameworks": {
-    "net461": { }
+    "net461": {}
   },
 
   "buildOptions": {
@@ -41,5 +41,14 @@
   "scripts": {
     "prepublish": [ "bower install", "dotnet bundle" ],
     "postpublish": [ "dotnet publish-iis --publish-folder %publish:OutputPath% --framework %publish:FullTargetFramework%" ]
+  },
+
+  "runtimes": {
+    "win7-x86": {
+
+    },
+    "win8-x64": {
+
+    }
   }
 }
