@@ -1,0 +1,718 @@
+Properties: MSBuildToolsVersion 	=14.0
+Properties: MSBuildToolsPath 	=C:\Program Files (x86)\MSBuild\14.0\bin\amd64
+Properties: MSBuildBinPath 	=C:\Program Files (x86)\MSBuild\14.0\bin\amd64
+Properties: MSBuildStartupDirectory 	=C:\TANGJ15\code\IIS\JexusManager\JexusManager\bin\Debug
+Properties: MSBuildNodeCount 	=1
+Properties: MSBuildProgramFiles32 	=C:\Program Files (x86)
+Properties: MSBuildProjectFile 	=SiteB.xproj
+Properties: MSBuildProjectName 	=SiteB
+Properties: MSBuildProjectExtension 	=.xproj
+Properties: MSBuildProjectFullPath 	=C:\TANGJ15\code\00TestNginx\SiteB\SiteB.xproj
+Properties: MSBuildProjectDirectory 	=C:\TANGJ15\code\00TestNginx\SiteB
+Properties: MSBuildProjectDirectoryNoRoot 	=TANGJ15\code\00TestNginx\SiteB
+Properties: MSBuildExtensionsPath32 	=C:\Program Files (x86)\MSBuild
+Properties: MSBuildExtensionsPath64 	=C:\Program Files\MSBuild
+Properties: MSBuildExtensionsPath 	=C:\Program Files (x86)\MSBuild
+Properties: LOCALAPPDATA 	=C:\Users\tangj15\AppData\Local
+Properties: MSBuildUserExtensionsPath 	=C:\Users\tangj15\AppData\Local\Microsoft\MSBuild
+Properties: ALLUSERSPROFILE 	=C:\ProgramData
+Properties: APPDATA 	=C:\Users\tangj15\AppData\Roaming
+Properties: AWE_DIR 	=C:\Program Files (x86)\Khrona LLC\Awesomium SDK\1.6.6\
+Properties: CommonProgramFiles 	=C:\Program Files\Common Files
+Properties: CommonProgramW6432 	=C:\Program Files\Common Files
+Properties: COMPUTERNAME 	=APCL20AMB020AN3
+Properties: ComSpec 	=C:\WINDOWS\system32\cmd.exe
+Properties: DEFLOGDIR 	=C:\ProgramData\McAfee\DesktopProtection
+Properties: DNX_FEED1 	=https://api.nuget.org/v3/index.json
+Properties: DNX_FEED2 	=https://www.myget.org/F/aspnetvnext/api/v3/index.json
+Properties: DNX_UNSTABLE_FEED1 	=https://www.myget.org/F/aspnetvnext/api/v3/index.json
+Properties: ENABLE_XAML_DIAGNOSTICS_SOURCE_INFO 	=1
+Properties: FPS_BROWSER_APP_PROFILE_STRING 	=Internet Explorer
+Properties: FPS_BROWSER_USER_PROFILE_STRING 	=Default
+Properties: FP_NO_HOST_CHECK 	=NO
+Properties: FSHARPINSTALLDIR 	=C:\Program Files (x86)\Microsoft SDKs\F#\4.1\Framework\v4.0\
+Properties: HOME 	=C:\Users\tangj15
+Properties: HOMEDRIVE 	=J:
+Properties: HOMEPATH 	=\
+Properties: HOMESHARE 	=\\aspbjgw004\enabling-users$\TANGJ15
+Properties: LOGONSERVER 	=\\BJGASPDOM01
+Properties: MEmuHyperv_Path 	=C:\Program Files\Microvirt\MEmuHyperv
+Properties: MEmu_Path 	=C:\Program Files\Microvirt
+Properties: MSBuildLoadMicrosoftTargetsReadOnly 	=true
+Properties: MSMPI_BIN 	=C:\Program Files\Microsoft MPI\Bin\
+Properties: NUMBER_OF_PROCESSORS 	=4
+Properties: OS 	=Windows_NT
+Properties: Path 	=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\24aa4mb1.sg0\NativeBinaries\x86;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\NativeBinaries\x86;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\PHP\v5.3;C:\WINDOWS\system32\inetsrv;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Enterprise Vault\EVClient\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Box\Box Edit\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bi;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jre1.8.0_91\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Anaconda3;C:\Program Files\Anaconda3\Scripts;C:\Program Files\Anaconda3\Library\bin;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\Windows Kits\10\bin\x64;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Ruby23-x64\bin;C:\Users\tangj15\.dnx\runtimes\dnx-clr-win-x86.1.0.0-rc2-20221\bin;C:\Users\tangj15\.dnx\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\tangj15\AppData\Roaming\npm;C:\Users\tangj15\AppData\Local\.meteor\
+Properties: PATHEXT 	=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW
+Properties: PkgDefApplicationConfigFile 	=C:\Users\tangj15\AppData\Local\Microsoft\VisualStudio\14.0\devenv.exe.config
+Properties: PROCESSOR_ARCHITECTURE 	=AMD64
+Properties: PROCESSOR_IDENTIFIER 	=Intel64 Family 6 Model 69 Stepping 1, GenuineIntel
+Properties: PROCESSOR_LEVEL 	=6
+Properties: PROCESSOR_REVISION 	=4501
+Properties: ProgramData 	=C:\ProgramData
+Properties: ProgramFiles 	=C:\Program Files
+Properties: ProgramW6432 	=C:\Program Files
+Properties: PSModulePath 	=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files\Microsoft Application Virtualization\Client\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\;C:\Program Files\WindowsPowerShell\Modules\;C:\Program Files (x86)\Microsoft SDKs\Azure\PowerShell\ResourceManager\AzureResourceManager\;C:\Program Files (x86)\Microsoft SDKs\Azure\PowerShell\ServiceManagement\;C:\Program Files (x86)\Microsoft SDKs\Azure\PowerShell\Storage\
+Properties: PUBLIC 	=C:\Users\Public
+Properties: QT_DEVICE_PIXEL_RATIO 	=auto
+Properties: SystemDrive 	=C:
+Properties: SystemRoot 	=C:\WINDOWS
+Properties: TEMP 	=C:\Users\tangj15\AppData\Local\Temp
+Properties: TMP 	=C:\Users\tangj15\AppData\Local\Temp
+Properties: TVT 	=C:\Program Files (x86)\Lenovo
+Properties: UATDATA 	=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+Properties: USERDNSDOMAIN 	=APAC.PFIZER.COM
+Properties: USERDOMAIN 	=APAC
+Properties: USERDOMAIN_ROAMINGPROFILE 	=APAC
+Properties: USERNAME 	=TANGJ15
+Properties: USERPROFILE 	=C:\Users\tangj15
+Properties: VisualStudioDir 	=C:\Users\tangj15\Documents\Visual Studio 2015
+Properties: VisualStudioEdition 	=Microsoft Visual Studio Enterprise 2015
+Properties: VisualStudioVersion 	=10.0
+Properties: VS110COMNTOOLS 	=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+Properties: VS120COMNTOOLS 	=C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+Properties: VS140COMNTOOLS 	=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+Properties: VSEDEFLOGDIR 	=C:\ProgramData\McAfee\DesktopProtection
+Properties: VSLANG 	=2052
+Properties: VSLOGGER_UNIQUEID 	=d60fa885b8c04574aa2619c000e3c6d3
+Properties: VSSDK140Install 	=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VSSDK\
+Properties: windir 	=C:\WINDOWS
+Properties: _NO_DEBUG_HEAP 	=1
+Properties: _PTVS_PID 	=15520
+Properties: __COMPAT_LAYER 	=Installer
+Properties: MSBuildToolsPath32 	=C:\Program Files (x86)\MSBuild\14.0\bin\
+Properties: MSBuildToolsRoot 	=C:\Program Files (x86)\MSBuild\
+Properties: MSBuildFrameworkToolsPath 	=C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\
+Properties: MSBuildFrameworkToolsPath32 	=C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\
+Properties: MSBuildFrameworkToolsRoot 	=C:\WINDOWS\Microsoft.NET\Framework64\
+Properties: MSBuildRuntimeVersion 	=4.0.30319
+Properties: FrameworkSDKRoot 	=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+Properties: SDK35ToolsPath 	=
+Properties: SDK40ToolsPath 	=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\
+Properties: VCTargetsPath 	=C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\
+Properties: VCTargetsPath10 	=C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\
+Properties: VCTargetsPath11 	=C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\
+Properties: VCTargetsPath12 	=C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\
+Properties: VCTargetsPath14 	=C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\
+Properties: iOSTargetsPath 	=C:\Program Files (x86)\MSBuild\Microsoft\MDD\iOS\V140\
+Properties: AndroidTargetsPath 	=C:\Program Files (x86)\MSBuild\Microsoft\MDD\Android\V140\
+Properties: WindowsSDK80Path 	=C:\Program Files (x86)\Windows Kits\8.1\
+Properties: MSBuildProjectDefaultTargets 	=Build
+Properties: VSToolsPath 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0
+Properties: ImportByWildcardBeforeMicrosoftCommonProps 	=true
+Properties: ImportByWildcardAfterMicrosoftCommonProps 	=true
+Properties: ImportUserLocationsByWildcardBeforeMicrosoftCommonProps 	=true
+Properties: ImportUserLocationsByWildcardAfterMicrosoftCommonProps 	=true
+Properties: CustomBeforeMicrosoftCommonProps 	=C:\Program Files (x86)\MSBuild\v4.0\Custom.Before.Microsoft.Common.props
+Properties: CustomAfterMicrosoftCommonProps 	=C:\Program Files (x86)\MSBuild\v4.0\Custom.After.Microsoft.Common.props
+Properties: MicrosoftCommonPropsHasBeenImported 	=true
+Properties: WMSJSProject 	=WJProject
+Properties: WMSJSProjectDirectory 	=JavaScript
+Properties: ProjectSystemBase 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\
+Properties: TargetFrameworkVersion 	=v4.6.1
+Properties: TargetFrameworkProfile 	=Client
+Properties: TargetFrameworkMoniker 	=.NETFramework,Version=v4.5.1
+Properties: SuppressOutOfDateMessageOnBuild 	=true
+Properties: Name 	=SiteB
+Properties: RootNamespace 	=SiteB
+Properties: AssemblyName 	=SiteB
+Properties: Configuration 	=Debug
+Properties: Platform 	=AnyCPU
+Properties: ProduceOutputsOnBuild 	=False
+Properties: ProjectGuid 	=cf1d477b-6bc6-4c4f-968a-775f185ebaec
+Properties: BaseIntermediateOutputPath 	=.\obj\
+Properties: OutputPath 	=.\bin\
+Properties: SchemaVersion 	=2.0
+Properties: DefineCommonCapabilities 	=false
+Properties: OutputType 	=Library
+Properties: CommonTargetsPath 	=C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\\Microsoft.Common.targets
+Properties: ImportByWildcardBefore40MicrosoftCommonTargets 	=true
+Properties: ImportByWildcardAfter40MicrosoftCommonTargets 	=true
+Properties: ImportUserLocationsByWildcardBefore40MicrosoftCommonTargets 	=true
+Properties: ImportUserLocationsByWildcardAfter40MicrosoftCommonTargets 	=true
+Properties: ImportByWildcardBeforeMicrosoftCommonTargets 	=false
+Properties: ImportByWildcardAfterMicrosoftCommonTargets 	=false
+Properties: ImportUserLocationsByWildcardBeforeMicrosoftCommonTargets 	=false
+Properties: ImportUserLocationsByWildcardAfterMicrosoftCommonTargets 	=false
+Properties: CustomBeforeMicrosoftCommonTargets 	=C:\Program Files (x86)\MSBuild\v4.0\Custom.Before.Microsoft.Common.targets
+Properties: CustomAfterMicrosoftCommonTargets 	=C:\Program Files (x86)\MSBuild\v4.0\Custom.After.Microsoft.Common.targets
+Properties: ImportByWildcardBefore40MicrosoftNetFrameworkProps 	=true
+Properties: ImportByWildcardAfter40MicrosoftNetFrameworkProps 	=true
+Properties: ImportUserLocationsByWildcardBefore40MicrosoftNetFrameworkProps 	=true
+Properties: ImportUserLocationsByWildcardAfter40MicrosoftNetFrameworkProps 	=true
+Properties: ImportByWildcardBeforeMicrosoftNetFrameworkProps 	=false
+Properties: ImportByWildcardAfterMicrosoftNetFrameworkProps 	=false
+Properties: ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkProps 	=false
+Properties: ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkProps 	=false
+Properties: ActiveDebugProfile 	=IIS Express
+Properties: ReportingServicesTargets 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v10.0\ReportingServices\Microsoft.ReportingServices.targets
+Properties: TargetRuntime 	=Managed
+Properties: TargetFrameworkIdentifier 	=.NETFramework
+Properties: AvailablePlatforms 	=Any CPU,x86,x64,Itanium
+Properties: MSBuildAllProjects 	=;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\Microsoft.NETFramework.props;C:\TANGJ15\code\00TestNginx\SiteB\SiteB.xproj;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Common.targets;C:\TANGJ15\code\00TestNginx\SiteB\SiteB.xproj.user;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\Microsoft.NetFramework.targets;C:\Program Files (x86)\MSBuild\14.0\bin\amd64\Microsoft.Xaml.targets
+Properties: UpgradeSubsetToProfile 	=true
+Properties: AddAdditionalExplicitAssemblyReferences 	=false
+Properties: AdditionalExplicitAssemblyReferences 	=
+Properties: TargetFrameworkSDKToolsDirectory 	=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\
+Properties: TargetedRuntimeVersion 	=v4.0.30319
+Properties: Prefer32Bit 	=false
+Properties: HighEntropyVA 	=true
+Properties: SubsystemVersion 	=6.00
+Properties: ImplicitlyExpandDesignTimeFacades 	=true
+Properties: YieldDuringToolExecution 	=true
+Properties: FrameworkPathOverride 	=C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\
+Properties: TargetPlatformIdentifier 	=Windows
+Properties: TargetPlatformVersion 	=7.0
+Properties: TargetPlatformSdkPath 	=
+Properties: TargetPlatformMoniker 	=Windows,Version=7.0
+Properties: _OriginalConfiguration 	=Debug
+Properties: _OriginalPlatform 	=AnyCPU
+Properties: ConfigurationName 	=Debug
+Properties: DebugSymbols 	=true
+Properties: _DebugSymbolsProduced 	=true
+Properties: _DocumentationFileProduced 	=false
+Properties: TargetExt 	=.dll
+Properties: OutDir 	=.\bin\
+Properties: ProjectName 	=SiteB
+Properties: TargetName 	=SiteB
+Properties: ProjectFileName 	=SiteB.xproj
+Properties: ProjectExt 	=.xproj
+Properties: TargetFileName 	=SiteB.dll
+Properties: PublishableProject 	=
+Properties: _DeploymentTargetApplicationManifestFileName 	=Native.SiteB.manifest
+Properties: TargetDeployManifestFileName 	=SiteB.application
+Properties: _DeploymentApplicationManifestIdentity 	=Native.SiteB
+Properties: _DeploymentDeployManifestIdentity 	=SiteB.application
+Properties: _DeploymentFileMappingExtension 	=
+Properties: _DeploymentBuiltUpdateInterval 	=0
+Properties: _DeploymentBuiltUpdateIntervalUnits 	=Days
+Properties: MaxTargetPath 	=100
+Properties: TargetCulture 	=*
+Properties: TargetDir 	=C:\TANGJ15\code\00TestNginx\SiteB\bin\
+Properties: TargetPath 	=
+Properties: ProjectDir 	=C:\TANGJ15\code\00TestNginx\SiteB\
+Properties: ProjectPath 	=C:\TANGJ15\code\00TestNginx\SiteB\SiteB.xproj
+Properties: PlatformName 	=AnyCPU
+Properties: DevEnvDir 	=*Undefined*
+Properties: SolutionName 	=*Undefined*
+Properties: SolutionFileName 	=*Undefined*
+Properties: SolutionPath 	=*Undefined*
+Properties: SolutionDir 	=*Undefined*
+Properties: SolutionExt 	=*Undefined*
+Properties: AutoUnifyAssemblyReferences 	=true
+Properties: CleanFile 	=SiteB.xproj.FileListAbsolute.txt
+Properties: BuildProjectReferences 	=true
+Properties: BuildInParallel 	=true
+Properties: _ResolveReferenceDependencies 	=false
+Properties: _GetChildProjectCopyToOutputDirectoryItems 	=true
+Properties: OverwriteReadOnlyFiles 	=false
+Properties: ComReferenceNoClassMembers 	=false
+Properties: IntermediateOutputPath 	=.\obj\Debug\
+Properties: _DeploymentUrl 	=
+Properties: PublishDir 	=.\bin\app.publish\
+Properties: ProcessorArchitecture 	=msil
+Properties: ConsiderPlatformAsProcessorArchitecture 	=true
+Properties: ProcessorArchitectureAsPlatform 	=AnyCPU
+Properties: TargetFrameworkAsMSBuildRuntime 	=CurrentRuntime
+Properties: PlatformTargetAsMSBuildArchitectureExplicitlySet 	=false
+Properties: PlatformTargetAsMSBuildArchitecture 	=CurrentArchitecture
+Properties: ProjectFlavor 	=Client
+Properties: DelaySign 	=
+Properties: WebReference_EnableProperties 	=true
+Properties: WebReference_EnableSQLTypes 	=true
+Properties: WebReference_EnableLegacyEventingModel 	=false
+Properties: AssemblyFoldersSuffix 	=AssemblyFoldersEx
+Properties: FrameworkRegistryBase 	=Software\Microsoft\.NETFramework
+Properties: TargetPlatformRegistryBase 	=Software\Microsoft\Microsoft SDKs\Windows
+Properties: AssemblySearchPaths 	=
+      {CandidateAssemblyFiles};
+      ;
+      {HintPathFromItem};
+      {TargetFrameworkDirectory};
+      {Registry:Software\Microsoft\.NETFramework,v4.6.1,AssemblyFoldersEx};
+      {AssemblyFolders};
+      {GAC};
+      {RawFileName};
+      .\bin\
+    
+Properties: AllowedReferenceAssemblyFileExtensions 	=
+      .winmd;
+      .dll;
+      .exe
+    
+Properties: AllowedReferenceRelatedFileExtensions 	=
+      .pdb;
+      .xml;
+      .pri
+    
+Properties: FullReferenceAssemblyNames 	=Full
+Properties: ContinueOnError 	=false
+Properties: BuildDependsOn 	=
+      _BeforeBuild;
+      
+      EntityDeploy;
+      
+      BeforeBuild;
+      CoreBuild;
+      AfterBuild
+    
+    ;
+    
+Properties: CoreBuildDependsOn 	=
+      BuildOnlySettings;
+      PrepareForBuild;
+      PreBuildEvent;
+      ResolveReferences;
+      PrepareResources;
+      ResolveKeySource;
+      Compile;
+      ExportWindowsMDFile;
+      UnmanagedUnregistration;
+      GenerateSerializationAssemblies;
+      CreateSatelliteAssemblies;
+      GenerateManifests;
+      GetTargetPath;
+      PrepareForRun;
+      UnmanagedRegistration;
+      IncrementalClean;
+      PostBuildEvent
+    
+Properties: _ProjectDefaultTargets 	=Build
+Properties: RebuildDependsOn 	=
+      _BeforeRebuild;
+      
+      BeforeRebuild;
+      Clean;
+      Build;
+      AfterRebuild;
+    ;
+    
+Properties: BuildGenerateSourcesAction 	=Build
+Properties: BuildCompileAction 	=Build
+Properties: BuildLinkAction 	=Build
+Properties: RunDependsOn 	=
+Properties: BuildingProject 	=false
+Properties: PrepareForBuildDependsOn 	=GetFrameworkPaths;GetReferenceAssemblyPaths
+Properties: Framework40Dir 	=@(_TargetFramework40DirectoryItem)
+Properties: Framework35Dir 	=@(_TargetFramework35DirectoryItem)
+Properties: Framework30Dir 	=@(_TargetFramework30DirectoryItem)
+Properties: Framework20Dir 	=@(_TargetFramework20DirectoryItem)
+Properties: FrameworkDir 	=@(_TargetFramework40DirectoryItem)
+Properties: TargetedFrameworkDir 	=@(_TargetedFrameworkDirectoryItem)
+Properties: FrameworkSDKDir 	=@(_TargetFrameworkSDKDirectoryItem)
+Properties: GetFrameworkPathsDependsOn 	=
+Properties: PreBuildEventDependsOn 	=
+Properties: UnmanagedUnregistrationDependsOn 	=
+Properties: ResolveReferencesDependsOn 	=
+      
+      BeforeResolveReferences;
+      AssignProjectConfiguration;
+      ResolveProjectReferences;
+      ResolveNativeReferences;
+      ResolveAssemblyReferences;
+      ResolveComReferences;
+      AfterResolveReferences
+    ;
+      ImplicitlyExpandDesignTimeFacades
+    
+Properties: GetTargetPathDependsOn 	=
+Properties: ResolveAssemblyReferencesDependsOn 	=
+      GetFrameworkPaths;
+      GetReferenceAssemblyPaths;
+      PrepareForBuild;
+      ResolveSDKReferences;
+      ExpandSDKReferences;
+    
+Properties: SDKReferenceRegistryRoot 	=Software\Microsoft\Microsoft SDKs
+Properties: SDKReferenceDirectoryRoot 	=C:\Users\tangj15\AppData\Local\Microsoft SDKs;C:\Program Files (x86)\Microsoft SDKs
+Properties: ResolveSDKReferencesDependsOn 	=
+      GetInstalledSDKLocations
+    
+Properties: TargetedSDKConfiguration 	=Debug
+Properties: TargetedSDKArchitecture 	=msil
+Properties: ExpandSDKReferencesDependsOn 	=
+      ResolveSDKReferences
+    
+Properties: ExpandSDKAllowedReferenceExtensions 	=
+      .winmd;
+      .dll
+    
+Properties: ProjectDesignTimeAssemblyResolutionSearchPaths 	=
+      {CandidateAssemblyFiles};
+      ;
+      {HintPathFromItem};
+      {TargetFrameworkDirectory};
+      {Registry:Software\Microsoft\.NETFramework,v4.6.1,AssemblyFoldersEx};
+      {RawFileName};
+      C:\TANGJ15\code\00TestNginx\SiteB\bin\
+    
+Properties: DesignTimeResolveAssemblyReferencesDependsOn 	=
+      GetFrameworkPaths;
+      GetReferenceAssemblyPaths;
+      ResolveReferences
+    
+Properties: ComReferenceExecuteAsTool 	=false
+Properties: PrepareResourcesDependsOn 	=
+      ValidationExtension;
+      ExpressionBuildExtension;
+      
+      XamlMarkupCompilePass1;
+      XamlMarkupCompilePass2;
+      
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    ;CompileRdlFiles
+       
+    
+    
+Properties: PrepareResourceNamesDependsOn 	=
+                    AssignWinFXEmbeddedResource;
+                    
+      AssignTargetPaths;
+      SplitResourcesByCulture;
+      CreateManifestResourceNames;
+      CreateCustomManifestResourceNames
+    
+      
+Properties: AssignTargetPathsDependsOn 	=
+Properties: CreateCustomManifestResourceNamesDependsOn 	=
+Properties: ResGenDependsOn 	=ResolveAssemblyReferences;SplitResourcesByCulture;BeforeResGen;CoreResGen;AfterResGen
+Properties: CoreResGenDependsOn 	=
+Properties: UseSourcePath 	=true
+Properties: ResGenExecuteAsTool 	=false
+Properties: CompileLicxFilesDependsOn 	=
+Properties: CompileDependsOn 	=
+      FindConfigFiles;
+      CompileTypeScript;
+      CompileTypeScriptWithTSConfig;
+      
+      
+        
+      ResolveReferences;
+      ResolveKeySource;
+      SetWin32ManifestProperties;
+      _GenerateCompileInputs;
+      BeforeCompile;
+      _TimeStampBeforeCompile;
+      CoreCompile;
+      _TimeStampAfterCompile;
+      AfterCompile;
+    ;
+        _AfterCompileWinFXInternal
+    ;
+      EmbedReferencedAssemblies;
+      ResignAfterEmbedding
+    ;
+    
+Properties: TargetFrameworkMonikerAssemblyAttributesPath 	=C:\Users\tangj15\AppData\Local\Temp\.NETFramework,Version=v4.5.1.AssemblyAttributes
+Properties: GenerateTargetFrameworkAttribute 	=true
+Properties: _SGenDllName 	=SiteB.XmlSerializers.dll
+Properties: _SGenDllCreated 	=false
+Properties: _SGenGenerateSerializationAssembliesConfig 	=Off
+Properties: SGenUseProxyTypes 	=true
+Properties: SGenShouldGenerateSerializer 	=true
+Properties: CreateSatelliteAssembliesDependsOn 	=
+      _GenerateSatelliteAssemblyInputs;
+      ComputeIntermediateSatelliteAssemblies;
+      GenerateSatelliteAssemblies
+    
+Properties: ComputeIntermediateSatelliteAssembliesDependsOn 	=
+      CreateManifestResourceNames
+    
+Properties: EmbeddedWin32Manifest 	=
+Properties: GenerateManifestsDependsOn 	=
+      SetWin32ManifestProperties;
+      GenerateApplicationManifest;
+      GenerateDeploymentManifest
+    
+Properties: SkipCopyUnchangedFiles 	=true
+Properties: UseCommonOutputDirectory 	=false
+Properties: PrepareForRunDependsOn 	=
+      CopyFilesToOutputDirectory
+    
+Properties: CreateHardLinksForCopyAdditionalFilesIfPossible 	=false
+Properties: GetCopyToOutputDirectoryItemsDependsOn 	=
+      
+      AssignTargetPaths;
+      _SplitProjectReferencesByFileExistence
+    ;
+      GetTypeScriptCopyToOutputDirectoryItems;
+    
+Properties: UnmanagedRegistrationDependsOn 	=
+Properties: CleanDependsOn 	=
+      
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    ;
+      FindConfigFiles;
+      TypeScriptClean;
+      TypeScriptCleanWithTSConfig;
+    
+Properties: CoreCleanDependsOn 	=
+Properties: PostBuildEventDependsOn 	=
+Properties: PublishDependsOn 	=
+      _DeploymentUnpublishable
+    
+Properties: PublishOnlyDependsOn 	=
+      SetGenerateManifests;
+      PublishBuild;
+      BeforePublish;
+      GenerateManifests;
+      CopyFilesToOutputDirectory;
+      CleanPublishFolder;
+      _CopyFilesToPublishFolder;
+      _DeploymentGenerateBootstrapper;
+      ResolveKeySource;
+      _DeploymentSignClickOnceDeployment;
+      AfterPublish
+    
+Properties: PublishBuildDependsOn 	=
+            BuildOnlySettings;
+            PrepareForBuild;
+            ResolveReferences;
+            PrepareResources;
+            ResolveKeySource;
+            PrepareResourcesForSatelliteAssemblies;
+            GenerateSerializationAssemblies;
+            CreateSatelliteAssemblies;
+        
+Properties: BuiltProjectOutputGroupDependsOn 	=
+      FindConfigFiles;
+      CompileTypeScript;
+      CompileTypeScriptWithTSConfig;
+      PrepareForBuild;
+    
+Properties: DebugSymbolsProjectOutputGroupDependsOn 	=
+Properties: DocumentationProjectOutputGroupDependsOn 	=
+Properties: SatelliteDllsProjectOutputGroupDependsOn 	=PrepareForBuild;PrepareResourceNames
+Properties: SourceFilesProjectOutputGroupDependsOn 	=PrepareForBuild;AssignTargetPaths
+Properties: ContentFilesProjectOutputGroupDependsOn 	=PrepareForBuild;AssignTargetPaths
+Properties: SGenFilesOutputGroupDependsOn 	=
+Properties: SDKRedistOutputGroupDependsOn 	=ResolveSDKReferences;ExpandSDKReferences
+Properties: CodeAnalysisTargets 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v10.0\CodeAnalysis\Microsoft.CodeAnalysis.targets
+Properties: CompileRdlFilesDependsOn 	=PrepareRdlFiles;RunRdlCompiler
+Properties: NetFrameworkTargetsPath 	=C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\\Microsoft.NetFramework.targets
+Properties: ImportByWildcardBefore40MicrosoftNetFrameworkTargets 	=true
+Properties: ImportByWildcardAfter40MicrosoftNetFrameworkTargets 	=true
+Properties: ImportUserLocationsByWildcardBefore40MicrosoftNetFrameworkTargets 	=true
+Properties: ImportUserLocationsByWildcardAfter40MicrosoftNetFrameworkTargets 	=true
+Properties: ImportByWildcardBeforeMicrosoftNetFrameworkTargets 	=false
+Properties: ImportByWildcardAfterMicrosoftNetFrameworkTargets 	=false
+Properties: ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkTargets 	=false
+Properties: ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkTargets 	=false
+Properties: ImplicitlyExpandDesignTimeFacadesDependsOn 	=
+      ;
+      GetReferenceAssemblyPaths
+    
+Properties: BuildSystem 	=MSBuild
+Properties: TaskVersion 	=4.0.0.0
+Properties: TaskKeyToken 	=31bf3856ad364e35
+Properties: BuildTaskAssembly 	=PresentationBuildTasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Properties: AlwaysCompileMarkupFilesInSeparateDomain 	=true
+Properties: LocalizationDirectivesToLocFile 	=None
+Properties: GetReferenceAssemblyPathsDependsOn 	=
+        ;
+        GetWinFXPath
+    
+Properties: XamlDebuggingInformation 	=true
+Properties: HostInBrowser 	=false
+Properties: Version 	=1.0.0.0
+Properties: DeploymentType 	=Installed
+Properties: RunAfterInstall 	=true
+Properties: GeneratedFileExtension 	=.g
+Properties: OSVersion 	=5.1.2600.0
+Properties: _RequireMCPass2ForSatelliteAssemblyOnly 	=false
+Properties: _RequireMCPass2ForMainAssembly 	=false
+Properties: IsLibrary 	=true
+Properties: _AfterCompileWinFXInternalDependsOn 	=
+        PrepareResourcesForSatelliteAssemblies;
+        MergeLocalizationDirectives;
+        AfterCompileWinFX
+    
+Properties: MarkupCompilePass2ForMainAssemblyDependsOn 	=
+                     GenerateTemporaryTargetAssembly;
+                     MarkupCompilePass2;
+                     AfterMarkupCompilePass2;
+                     CleanupTemporaryTargetAssembly
+       
+Properties: _CompileTargetNameForLocalType 	=_CompileTemporaryAssembly
+Properties: _ResourceNameInMainAssembly 	=SiteB.g.resources
+Properties: EntityDeployIntermediateResourcePath 	=.\obj\Debug\edmxResourcesToEmbed\
+Properties: EntityDeployDependsOn 	=
+Properties: XamlBuildTaskPath 	=C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\
+Properties: LoadTimeSensitiveTargets 	=
+      ;
+      XamlMarkupCompilePass1;
+    
+Properties: LoadTimeSensitiveProperties 	=
+      ;
+    
+Properties: XamlBuildTaskAssemblyName 	=XamlBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Properties: XamlRequiresCompilationPass2 	=false
+Properties: XamlTemporaryAssemblyName 	=SiteB
+Properties: CompileTargetNameForTemporaryAssembly 	=CompileTemporaryAssembly
+Properties: XamlBuildTaskLocation 	=C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\
+Properties: XamlGenCodeFileNames 	=SiteB.xproj.XamlGeneratedCodeFileListAbsolute.txt
+Properties: XamlGenMarkupFileNames 	=SiteB.xproj.XamlGeneratedXamlFileListAbsolute.txt
+Properties: XamlPass2FlagFile 	=SiteB.xproj.XamlPass2Flag.txt
+Properties: DesignTimeIntermediateOutputPath 	=.\obj\Debug\InProcessTempFiles\
+Properties: WorkflowBuildExtensionVersion 	=4.0.0.0
+Properties: WorkflowBuildExtensionKeyToken 	=31bf3856ad364e35
+Properties: WorkflowBuildExtensionAssemblyName 	=Microsoft.Activities.Build, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Properties: DeferredValidationErrorsFileName 	=.\obj\Debug\\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+Properties: MsTestToolsTargets 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v10.0\TeamTest\Microsoft.TeamTest.targets
+Properties: MsAppxPackageTargets 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v10.0\AppxPackage\Microsoft.AppXPackage.Targets
+Properties: _ParentDirectoryContainingGlobalJson 	=C:\TANGJ15\code\00TestNginx\SiteB
+Properties: _RelativeDirectoryToRealOutput 	=..\SiteB
+Properties: DefaultContentType 	=Default
+Properties: CopyBuildOutputToOutputDirectory 	=false
+Properties: DebuggerFlavor 	=ProjectDebugger
+Properties: ImportByWildcardBeforeMicrosoftWebPublishingTargets 	=true
+Properties: WebPublishTasksDir 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\..\Web\
+Properties: DotNetTasksDir 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\
+Properties: PublishTempFolderName 	=SiteB45
+Properties: PublishOutputPathNoTrailingSlash 	=C:\Users\tangj15\AppData\Local\Temp\PublishTemp\SiteB45
+Properties: PublishOutputPath 	=C:\Users\tangj15\AppData\Local\Temp\PublishTemp\SiteB45\
+Properties: PowerShellScriptFile 	=
+Properties: GatherAllFilesToPublishDependsOn 	=
+        ;
+        GetSDKToolingInfoTarget
+    
+Properties: FileSystemPublishDependsOn 	=
+      ;
+      GatherAllFilesToPublish;
+    
+Properties: MSDeployPublishDependsOn 	=
+      ;
+      GatherAllFilesToPublish;
+      GenerateSkipRuleForAppData
+    
+Properties: PackagePublishDependsOn 	=
+      ;
+      GatherAllFilesToPublish
+    
+Properties: DefaultPublishDependsOn 	=
+      ;
+      GatherAllFilesToPublish
+    
+Properties: CustomPublishDependsOn 	=
+      ;
+      GatherAllFilesToPublish;
+    
+Properties: ImportByWildcardAfterMicrosoftWebPublishingTargets 	=true
+Properties: CompilerOutputLog 	=C:\TANGJ15\code\00TestNginx\SiteB\.\obj\Debug\TypeScriptCompilerOutput.txt
+Properties: TypeScriptProjectDir 	=C:\TANGJ15\code\00TestNginx\SiteB\
+Properties: CompileTypeScriptDependsOn 	=
+      ;
+      PreComputeCompileTypeScript;
+      PreComputeCompileTypeScriptWithTSConfig;
+    
+Properties: PublishPipelineCollectFilesCore 	=
+      ;
+      FindConfigFiles;
+      CompileTypeScript;
+      CompileTypeScriptWithTSConfig;
+    
+Properties: CfgPropertyPagesGuidsAddCSharp 	={d4683cae-88c4-4b85-863d-ac8014f3ba36}
+Properties: CfgPropertyPagesGuidsAddVB 	={d4683cae-88c4-4b85-863d-ac8014f3ba36}
+Properties: CfgPropertyPagesGuidsAddTypeScript 	={d4683cae-88c4-4b85-863d-ac8014f3ba36}
+Properties: TypeScriptEnabled 	=true
+Properties: TypeScriptCompileOnSaveEnabled 	=true
+Properties: TypeScriptCompileBlocked 	=false
+Properties: JsxPreserve 	=false
+Properties: GenerateDeclarationFiles 	=false
+Properties: GenerateSourceMaps 	=false
+Properties: TypeScriptBuildConfigurations 	= --noEmitOnError
+Properties: TypeScriptToolsVersion 	=2.1
+Properties: TscToolPath 	=C:\Program Files (x86)\Microsoft SDKs\TypeScript
+Properties: TscToolExe 	=tsc.exe
+Properties: TscYieldDuringToolExecution 	=true
+Properties: AddItemTemplatesGuid 	={8995EEE9-F6C2-4122-ACA7-19384033A7B1}
+Items: bower.json 	=bower.json
+Items: .bowerrc 	=.bowerrc
+Items: $(OutDir) 	=.\bin\
+Items: $(BaseIntermediateOutputPath)$(MSBuildProjectFile).UnmanagedRegistration.cache 	=.\obj\SiteB.xproj.UnmanagedRegistration.cache
+Items: $(IntermediateOutputPath)$(MSBuildProjectFile).ResolveComReference.cache 	=.\obj\Debug\SiteB.xproj.ResolveComReference.cache
+Items: $(OutDir)$(TargetFileName).config 	=.\bin\SiteB.dll.config
+Items: $(IntermediateOutputPath)$(TargetName)$(TargetExt) 	=.\obj\Debug\SiteB.dll
+Items: $(IntermediateOutputPath)$(TargetName).pdb 	=.\obj\Debug\SiteB.pdb
+Items: @(_DebugSymbolsIntermediatePath->'$(OutDir)%(Filename)%(Extension)') 	=.\bin\SiteB.pdb
+Items: @(IntermediateAssembly) 	=.\obj\Debug\SiteB.dll
+Items: $(IntermediateOutputPath)$(_DeploymentTargetApplicationManifestFileName) 	=.\obj\Debug\Native.SiteB.manifest
+Items: $(OutDir)$(_DeploymentTargetApplicationManifestFileName) 	=.\bin\Native.SiteB.manifest
+Items: $(IntermediateOutputPath)$(TargetDeployManifestFileName) 	=.\obj\Debug\SiteB.application
+Items: @(IntermediateAssembly->'%(FullPath)') 	=C:\TANGJ15\code\00TestNginx\SiteB\obj\Debug\SiteB.dll
+Items: @(_DebugSymbolsIntermediatePath->'%(FullPath)') 	=C:\TANGJ15\code\00TestNginx\SiteB\obj\Debug\SiteB.pdb
+Items: EntityDeploy 	=EntityDeploy
+Items: Microsoft.Activities.Build.BeforeInitializeComponentExtension 	=Microsoft.Activities.Build.BeforeInitializeComponentExtension
+Items: Microsoft.Activities.Build.Debugger.DebugBuildExtension 	=Microsoft.Activities.Build.Debugger.DebugBuildExtension
+Items: AllTargetOutputGroups 	=AllTargetOutputGroups
+Items: VisualStudioWellKnownOutputGroups 	=VisualStudioWellKnownOutputGroups
+Items: OutputGroups 	=OutputGroups
+Items: ProjectJsonConfigurations 	=ProjectJsonConfigurations
+Items: DNX 	=DNX
+Items: DotNetCore 	=DotNetCore
+Items: DotNetProject 	=DotNetProject
+Items: ReferencesFolder 	=ReferencesFolder
+Items: RelativePathDerivedDefaultNamespace 	=RelativePathDerivedDefaultNamespace
+Items: CSharp 	=CSharp
+Items: TypeScript 	=TypeScript
+Items: SingleFileGenerators 	=SingleFileGenerators
+Items: FileSystemBasedDotnetProject 	=FileSystemBasedDotnetProject
+Items: TypeScript 	=TypeScript
+Items: DependencyPackageManagement 	=DependencyPackageManagement
+Items: DotNetCoreWeb 	=DotNetCoreWeb
+Items: $(MSBuildThisFileDirectory)en-us\general.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\general.xaml
+Items: $(MSBuildThisFileDirectory)en-us\ProjectItemsSchema.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\ProjectItemsSchema.xaml
+Items: $(MSBuildThisFileDirectory)en-us\debugger_general.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\debugger_general.xaml
+Items: $(MSBuildThisFileDirectory)en-us\ProjectDebugger.xaml 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\ProjectDebugger.xaml
+Items: $(MSBuildThisFileDirectory)en-us\general_file.xaml 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\general_file.xaml
+Items: $(MSBuildThisFileDirectory)en-us\scc.xaml 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\scc.xaml
+Items: $(MSBuildThisFileDirectory)en-us\csharp.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\csharp.xaml
+Items: 
+                        $(MSBuildThisFileDirectory)en-us\Content.xaml;
+                        $(MSBuildThisFileDirectory)en-us\folder.xaml;
+                        $(MSBuildThisFileDirectory)en-us\none.xaml;
+                        $(MSBuildThisFileDirectory)en-us\EmbeddedResource.xaml;
+                        $(MSBuildThisFileDirectory)en-us\typescript.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\Content.xaml
+Items: 
+                        $(MSBuildThisFileDirectory)en-us\Content.xaml;
+                        $(MSBuildThisFileDirectory)en-us\folder.xaml;
+                        $(MSBuildThisFileDirectory)en-us\none.xaml;
+                        $(MSBuildThisFileDirectory)en-us\EmbeddedResource.xaml;
+                        $(MSBuildThisFileDirectory)en-us\typescript.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\folder.xaml
+Items: 
+                        $(MSBuildThisFileDirectory)en-us\Content.xaml;
+                        $(MSBuildThisFileDirectory)en-us\folder.xaml;
+                        $(MSBuildThisFileDirectory)en-us\none.xaml;
+                        $(MSBuildThisFileDirectory)en-us\EmbeddedResource.xaml;
+                        $(MSBuildThisFileDirectory)en-us\typescript.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\none.xaml
+Items: 
+                        $(MSBuildThisFileDirectory)en-us\Content.xaml;
+                        $(MSBuildThisFileDirectory)en-us\folder.xaml;
+                        $(MSBuildThisFileDirectory)en-us\none.xaml;
+                        $(MSBuildThisFileDirectory)en-us\EmbeddedResource.xaml;
+                        $(MSBuildThisFileDirectory)en-us\typescript.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\EmbeddedResource.xaml
+Items: 
+                        $(MSBuildThisFileDirectory)en-us\Content.xaml;
+                        $(MSBuildThisFileDirectory)en-us\folder.xaml;
+                        $(MSBuildThisFileDirectory)en-us\none.xaml;
+                        $(MSBuildThisFileDirectory)en-us\EmbeddedResource.xaml;
+                        $(MSBuildThisFileDirectory)en-us\typescript.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\typescript.xaml
+Items: $(MSBuildThisFileDirectory)en-us\ResolvedDesignTimeHostReferences.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\ResolvedDesignTimeHostReferences.xaml
+Items: $(MSBuildThisFileDirectory)en-us\csharp.browseobject.xaml; 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet\en-us\csharp.browseobject.xaml
+Items: $(MSBuildThisFileDirectory)en-us\web.general.browseobject.xaml 	=C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\DotNet.Web\en-us\web.general.browseobject.xaml
