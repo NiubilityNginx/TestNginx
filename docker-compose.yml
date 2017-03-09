@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  webapp2017:
+    image: webapp2017
+    build:
+      context: ./WebApp2017
+      dockerfile: Dockerfile

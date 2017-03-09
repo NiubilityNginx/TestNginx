@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  webapp2017:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
